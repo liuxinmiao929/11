@@ -6,7 +6,7 @@ PennController.ResetPrefix(null);
 
 // SAMPLE TRIAL
 PennController(
-	newText("sentence", "<< Chris talks to itself >>")
+	newText("sentence", "<< 小明 吃了 早饭。 >>")
 		.print()
 	,
 	newText("question", "this sounds...")
